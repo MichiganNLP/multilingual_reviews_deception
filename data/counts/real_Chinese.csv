@@ -1,0 +1,549 @@
+Language,City Name,Hotel Name,Positive,Negative
+Chinese,Ankara,迪万卡拉汉酒店,1,2
+Chinese,Ankara,安卡拉卡亚酒店,0,1
+Chinese,Beijing,北京长城饭店(原北京喜来登长城饭店）,1,13
+Chinese,Beijing,北京千禧大酒店,1,12
+Chinese,Beijing,北京诺富特和平酒店,1,11
+Chinese,Beijing,北京新世界酒店,1,8
+Chinese,Beijing,北京华彬费尔蒙酒店,1,8
+Chinese,Beijing,北京王府井希尔顿酒店,1,8
+Chinese,Beijing,建国饭店,1,7
+Chinese,Beijing,北京丽亭酒店,1,6
+Chinese,Beijing,北京前门富力智选假日酒店,1,6
+Chinese,Beijing,景山花园酒店,1,6
+Chinese,Beijing,北京希尔顿逸林酒店,1,6
+Chinese,Beijing,北京东方君悦大酒店,1,6
+Chinese,Beijing,北京遨途机场酒店,1,6
+Chinese,Beijing,北京东直门智选假日酒店,1,5
+Chinese,Beijing,北京新侨饭店,1,5
+Chinese,Beijing,北京上巢酒店,1,5
+Chinese,Beijing,北京索菲特大酒店,1,5
+Chinese,Beijing,北京金茂万丽酒店,1,5
+Chinese,Beijing,北京天伦王朝酒店,1,5
+Chinese,Beijing,北京国际艺苑大酒店,1,4
+Chinese,Beijing,天伦松鹤大饭店,1,4
+Chinese,Beijing,北京希尔顿酒店,1,4
+Chinese,Beijing,北京东隅酒店,1,4
+Chinese,Beijing,北京康莱德酒店,1,4
+Chinese,Beijing,北京朝阳悠唐皇冠假日酒店,1,4
+Chinese,Beijing,北平北京站青年旅舍,1,3
+Chinese,Beijing,北京中奥马哥孛罗大酒店,1,3
+Chinese,Beijing,北京香格里拉,1,3
+Chinese,Beijing,北京瑰丽酒店,1,3
+Chinese,Beijing,北京中关村皇冠假日酒店,1,3
+Chinese,Beijing,北京通州北投希尔顿酒店,1,3
+Chinese,Beijing,金茂北京威斯汀大饭店,1,3
+Chinese,Beijing,北京新世纪日航饭店,0,3
+Chinese,Beijing,北平国际青年旅舍,1,2
+Chinese,Beijing,映向城严选酒店（王府井故宫店）,1,2
+Chinese,Beijing,Stey公寓（北京工体三里屯店）,1,2
+Chinese,Beijing,兰花宾馆,1,2
+Chinese,Beijing,北京凯丽家酒店,1,2
+Chinese,Beijing,北京丽亭华苑酒店,1,2
+Chinese,Beijing,北京瑜舍酒店,1,2
+Chinese,Beijing,北京饭店诺金-王府井,1,2
+Chinese,Beijing,璞瑄酒店,1,2
+Chinese,Beijing,映向城市文化酒店（北京天安门故宫店）,1,2
+Chinese,Beijing,北京三里屯通盈中心洲际酒店,1,2
+Chinese,Beijing,北京宝格丽酒店,1,2
+Chinese,Beijing,北京山士知还四合院精品酒店,1,2
+Chinese,Beijing,北京维景国际大酒店,1,2
+Chinese,Beijing,北平小院设计酒店,1,2
+Chinese,Beijing,北京柏悦酒店,1,2
+Chinese,Beijing,北京上地智选假日酒店,1,2
+Chinese,Beijing,北京临空智选假日酒店,1,2
+Chinese,Beijing,北京英协万达嘉华酒店,1,2
+Chinese,Beijing,北京海淀永泰福朋喜来登酒店,1,2
+Chinese,Beijing,北京大兴希尔顿酒店,0,2
+Chinese,Beijing,北京天地华典酒店式公寓（悠乐汇店）,0,2
+Chinese,Beijing,JEN北京新国贸饭店-香格里拉集团,1,1
+Chinese,Beijing,Stey酒店（北京天安门王府井店）,1,1
+Chinese,Beijing,北京王府半岛酒店,1,1
+Chinese,Beijing,北京什刹海皮影文化主题酒店,1,1
+Chinese,Beijing,北京燕莎中心凯宾斯基饭店,1,1
+Chinese,Beijing,北京锦绣庄四合院宾馆,1,1
+Chinese,Beijing,北京金融街丽思卡尔顿酒店,1,1
+Chinese,Beijing,base佰舍服务式公寓（北京工体店）,1,1
+Chinese,Beijing,北京四季酒店,1,1
+Chinese,Beijing,北京瑞吉酒店,1,1
+Chinese,Beijing,北京JW万豪酒店,1,1
+Chinese,Beijing,Beijing Yue Bin Ge Courtyard Hotel,1,1
+Chinese,Beijing,北京丽思卡尔顿酒店,1,1
+Chinese,Beijing,北京长峰假日酒店,1,1
+Chinese,Beijing,隐世·叠院儿,1,1
+Chinese,Beijing,北京亮马河大厦,1,1
+Chinese,Beijing,北京海航大厦万豪酒店,1,1
+Chinese,Beijing,北京行舍酒店•礼院（王府井四合院店）,1,1
+Chinese,Beijing,唐府中式文化酒店-南锣鼓巷店,1,1
+Chinese,Beijing,北京国宾酒店,1,1
+Chinese,Beijing,北京宝辰饭店Howard Johnson,1,1
+Chinese,Beijing,北京日坛宾馆,1,1
+Chinese,Beijing,北京海淀雅乐轩酒店,1,1
+Chinese,Beijing,北京贵州大厦,1,1
+Chinese,Beijing,北京商务会馆,0,1
+Chinese,Beijing,北京昆泰嘉华酒店,0,1
+Chinese,Beijing,北京福庭酒店,0,1
+Chinese,Berlin,雷迪森柏林亚历山大广场酒店,1,5
+Chinese,Berlin,阿玛诺市中心大酒店,1,3
+Chinese,Berlin,柏林墙东侧画廊舒尔茨酒店,1,2
+Chinese,Berlin,柏林波茨坦广场斯堪迪克酒店,1,2
+Chinese,Berlin,玛丽蒂姆柏林普洛艾特酒店,1,2
+Chinese,Berlin,柏灵城中心假日酒店,1,2
+Chinese,Berlin,"Hotel Berlin, Berlin, a member of Radisson Individuals",1,2
+Chinese,Berlin,柏林米特莱昂纳多酒店,1,2
+Chinese,Berlin,Park Plaza Berlin,1,2
+Chinese,Berlin,The Westin Grand Berlin,1,2
+Chinese,Berlin,柏灵莱昂纳多酒店,1,2
+Chinese,Berlin,柏林海波龙酒店,1,1
+Chinese,Berlin,Steigenberger Hotel Am Kanzleramt,1,1
+Chinese,Berlin,阿勒托库单酒店,1,1
+Chinese,Berlin,ARCOTEL John F Berlin,1,1
+Chinese,Berlin,Hotel ROMY by AMANO,1,1
+Chinese,Berlin,库尔菲尔斯滕斯堪柏林酒店,1,1
+Chinese,Berlin,柏林亚历山大广场莱昂纳多皇家酒店,1,1
+Chinese,Berlin,柏林欧洲之星酒店,1,1
+Chinese,Berlin,INNSiDE by Meliá Berlin Mitte,1,1
+Chinese,Berlin,柏林上西区一号汽车旅馆,1,1
+Chinese,Berlin,SANA柏林酒店,1,1
+Chinese,Berlin,加泰罗尼亚柏林米特酒店,1,1
+Chinese,Berlin,38酒店（原施彻恩维特酒店）,1,1
+Chinese,Berlin,Classik Hotel Alexander Plaza,1,1
+Chinese,Berlin,Clipper Boardinghouse - Berlin-Gendarmenmarkt,1,1
+Chinese,Berlin,Hampton By Hilton Berlin City East Side Gallery,1,1
+Chinese,Berlin,柏林洲际酒店,1,1
+Chinese,Berlin,柏林波茨坦广场皇冠假日酒店,0,1
+Chinese,Berlin,HighPark by Palmira,1,0
+Chinese,Berlin,aletto Hotel Potsdamer Platz,1,0
+Chinese,Berlin,米特区查理检查哨NH精选酒店,1,0
+Chinese,Berlin,Grimm's Potsdamer Platz,1,0
+Chinese,Berlin,Precise Tale Berlin Potsdamer Platz,1,0
+Chinese,Berlin,希尔顿柏林市西部酒店,1,0
+Chinese,Berlin,智选假日酒店 - 柏林 - 亚历山大广场,1,0
+Chinese,Berlin,Hotel AMO by AMANO Friedrichstraße,1,0
+Chinese,Berlin,"Radisson Collection Hotel, Berlin",1,0
+Chinese,Berlin,Vienna House by Wyndham Andel's Berlin,1,0
+Chinese,Berlin,about:berlin Hotel,1,0
+Chinese,Berlin,the niu Hide,1,0
+Chinese,Berlin,Quentin XL Potsdamer Platz,1,0
+Chinese,Berlin,柏林城西假日酒店,1,0
+Chinese,Berlin,柏林市中心亚历山大广场希尔顿汉普顿酒店,1,0
+Chinese,Berlin,柏林库丹姆H10酒店,1,0
+Chinese,Berlin,AMANO East Side,1,0
+Chinese,Berlin,"Crowne Plaza Berlin City Centre Ku'damm, an IHG Hotel",1,0
+Chinese,Berlin,KPM Hotel & Residences,1,0
+Chinese,Berlin,the niu Dwarf,1,0
+Chinese,Berlin,斯图加特瑞拉科萨酒店,1,0
+Chinese,Berlin,柏林美利亚酒店,1,0
+Chinese,Berlin,柏林辉盛凯贝丽酒店式服务公寓,1,0
+Chinese,Berlin,柏灵Q!酒店,1,0
+Chinese,Berlin,柏灵纽沃酒店,1,0
+Chinese,Berlin,AC Hotel by Marriott Berlin Humboldthain Park,1,0
+Chinese,Berlin,Dorint Kurfürstendamm Berlin,1,0
+Chinese,Berlin,Essential by Dorint Berlin-Adlershof,1,0
+Chinese,Berlin,Grimm's Berlin Mitte,1,0
+Chinese,Berlin,Hotel BIRGIT Berlin Mitte,1,0
+Chinese,Berlin,"Hotel Indigo Berlin – Ku’damm, an IHG Hotel",1,0
+Chinese,Berlin,"Lindner Hotel Berlin Ku'damm, part of JdV by Hyatt",1,0
+Chinese,Berlin,NH酒店柏灵亚历山大广场店,1,0
+Chinese,Berlin,Nena Apartments - Kreuzberg 61,1,0
+Chinese,Berlin,Nena Apartments Hermannplatz,1,0
+Chinese,Berlin,Schlosshotel Berlin by Patrick Hellmann,1,0
+Chinese,Berlin,TITANIC Comfort Kurfürstendamm,1,0
+Chinese,Berlin,Urbn Dreams II,1,0
+Chinese,Berlin,Vienna House Easy by Wyndham Berlin Prenzlauer Berg,1,0
+Chinese,Berlin,"Wilde Aparthotels by Staycity, Berlin, Checkpoint Charlie",1,0
+Chinese,Berlin,acora Berlin Living the City,1,0
+Chinese,Berlin,the niu Flash,1,0
+Chinese,Berlin,文柏林贝勒福汽车旅馆,1,0
+Chinese,Berlin,柏林-诗皮特尔玛克茨一号汽车旅馆,1,0
+Chinese,Berlin,柏林凯撒学院酒店,1,0
+Chinese,Berlin,柏林斯皮格尔腾精选酒店,1,0
+Chinese,Berlin,柏林洪堡海因公园慕奇夕酒店,1,0
+Chinese,Berlin,柏林滕珀尔霍夫美居酒店,1,0
+Chinese,Berlin,柏林选帝侯大街阿德吉奥公寓式酒店,1,0
+Chinese,Berlin,翰萨布里克酒店,1,0
+Chinese,Berlin,蒂尔加藤1号汽车旅馆,1,0
+Chinese,Berlin,贝多芬路德维希酒店,1,0
+Chinese,Berlin,柏林中央车站城际酒店,0,5
+Chinese,Berlin,martas Hotel Albrechtshof Berlin,0,1
+Chinese,Berlin,柏林哈克市场便捷酒店,0,1
+Chinese,Berlin,Boxi Studios Berlin,0,1
+Chinese,Berlin,加特点查理酒店,0,1
+Chinese,Berlin,Three Little Pigs Hostel - Your Berlin Castle,0,3
+Chinese,Berlin,柏林君悦酒店,0,1
+Chinese,Berlin,Hotel Grand Inn,0,1
+Chinese,Berlin,柏林亚历山大广场美宁格酒店,0,1
+Chinese,Bucharest,Sheraton Bucharest Hotel,0,3
+Chinese,Bucharest,Le Blanc ApartHotel,1,1
+Chinese,Bucharest,ibis Styles Bucharest City Center,1,1
+Chinese,Bucharest,国会大厦酒店,1,1
+Chinese,Bucharest,Upstairs Boutique,0,1
+Chinese,Bucharest,卡罗酒店,0,1
+Chinese,Bucharest,宙斯国际威尼斯酒店,0,1
+Chinese,Bucharest,议会酒店,0,1
+Chinese,Bucharest,ibis Styles Bucharest Erbas,1,0
+Chinese,Bucharest,Bucur Accommodation,1,0
+Chinese,Bucharest,"Holiday Inn Bucharest - Times, an IHG Hotel",1,0
+Chinese,Bucharest,One88 Apartments,1,0
+Chinese,Bucharest,Residence DP Pipera,1,0
+Chinese,Bucharest,The Mansion Boutique Hotel,1,0
+Chinese,Bucharest,Tomis Garden Aparthotel Bucuresti,1,0
+Chinese,Bucharest,Vila 18 Hotel Boutique,1,0
+Chinese,Bucharest,放松舒适套房酒店,1,0
+Chinese,Bucharest,斯卡拉精品酒店,1,0
+Chinese,Bucharest,格兰德精品酒店,1,0
+Chinese,Bucharest,水晶宫酒店,1,0
+Chinese,Bucharest,河拉斯特劳酒店,1,0
+Chinese,Bucharest,维拉巴黎精品酒店,1,0
+Chinese,Bucharest,贝特洛酒店,1,0
+Chinese,Madrid,布拉格酒店,1,7
+Chinese,Madrid,Riu Plaza España,1,6
+Chinese,Madrid,阿古玛酒店,1,6
+Chinese,Madrid,美洲门酒店,1,6
+Chinese,Madrid,Hotel Princesa Plaza Madrid,1,3
+Chinese,Madrid,"Madrid - Retiro, an IHG Hotel",1,3
+Chinese,Madrid,Francisco I Boutique,1,3
+Chinese,Madrid,马德里Ok旅舍,1,2
+Chinese,Madrid,Letoh Letoh Gran Vía,1,2
+Chinese,Madrid,SLEEP'N Atocha - B Corp Certified,1,2
+Chinese,Madrid,纽沃波斯顿酒店,1,2
+Chinese,Madrid,7岛酒店,1,2
+Chinese,Madrid,Hotel Moderno Puerta del Sol,1,2
+Chinese,Madrid,New Point Opera,1,2
+Chinese,Madrid,库特佐梅迭姆酒店,1,2
+Chinese,Madrid,Victoria 4 Puerta del Sol,0,2
+Chinese,Madrid,里贾纳酒店,1,1
+Chinese,Madrid,皮欧王子酒店,1,1
+Chinese,Madrid,马德里见旅馆,1,1
+Chinese,Madrid,Gran View Apartments,1,1
+Chinese,Madrid,巴拉哈斯美利亚酒店,1,1
+Chinese,Madrid,格兰维尔塞斯酒店,1,1
+Chinese,Madrid,Crisol Vía Castellana,1,1
+Chinese,Madrid,UMusic Hotel Madrid,1,1
+Chinese,Madrid,斯考特尔马德里机场酒店,1,1
+Chinese,Madrid,马德里伊鲁尼套房酒店,1,1
+Chinese,Madrid,Catalonia El Retiro,1,1
+Chinese,Madrid,NYX Hotel Madrid by Leonardo Hotels,1,1
+Chinese,Madrid,Smartrental Collection Gran Vía Centric,1,1
+Chinese,Madrid,大西洋酒店,1,1
+Chinese,Madrid,马德里 - 拉斯维加斯塔布拉斯假日酒店,1,1
+Chinese,Madrid,马德里市中心莱昂纳多酒店,1,1
+Chinese,Madrid,马德里格兰大街中心凯悦酒店,1,1
+Chinese,Madrid,马德里阿尔卡拉艾尔巴酒店,1,1
+Chinese,Madrid,Casa du Soleil,1,1
+Chinese,Madrid,Feelathome San Marcos Apartments,1,1
+Chinese,Madrid,"Hotel Indigo Madrid - Princesa, an IHG Hotel",1,1
+Chinese,Madrid,Room Mate Macarena – Gran Vía,1,1
+Chinese,Madrid,TX Matadero,1,1
+Chinese,Madrid,NH马德里巴尔博亚酒店,0,1
+Chinese,Madrid,卡斯特拉纳珀蒂宫总统酒店,0,1
+Chinese,Madrid,塞尔科蒂尔阿尔卡拉611酒店,0,1
+Chinese,Madrid,文殊特莱托斯04酒店,0,1
+Chinese,Madrid,艾普拉杜尔酒店,0,1
+Chinese,Madrid,马德里亚历克西斯旅馆,0,1
+Chinese,Madrid,马德里普拉多大道NH精品酒店,0,1
+Chinese,Madrid,马德里莱昂纳多精品酒店,0,1
+Chinese,Madrid,里阿本酒店,1,0
+Chinese,Madrid,ARTIEM Madrid,1,0
+Chinese,Madrid,奥连特宫公寓,1,0
+Chinese,Madrid,卡森德尔托尔梅斯酒店,1,0
+Chinese,Madrid,马德里中央美居酒店,1,0
+Chinese,Madrid,TaCH Madrid Airport,1,0
+Chinese,Madrid,温齐66号酒店,1,0
+Chinese,Madrid,马德里巴塞罗塔酒店,1,0
+Chinese,Madrid,Catalonia Gran Vía Madrid,1,0
+Chinese,Madrid,L&H La Latina Selection,1,0
+Chinese,Madrid,Palacio Tirso de Molina - THE ARC COLLECTION,1,0
+Chinese,Madrid,帕萨奥哈瓦那NH酒店,1,0
+Chinese,Madrid,"Hotel Villa Real, a member of Preferred Hotels & Resorts",1,0
+Chinese,Madrid,JC圣安娜之屋酒店,1,0
+Chinese,Madrid,Motel One Madrid-Plaza de España,1,0
+Chinese,Madrid,Ocean Drive Madrid,1,0
+Chinese,Madrid,Soho Boutique Congreso,1,0
+Chinese,Madrid,limehome Madrid Calle de la Madera - Digital Access,1,0
+Chinese,Madrid,丘埃卡惊喜客房民宿,1,0
+Chinese,Madrid,丽晶酒店,1,0
+Chinese,Madrid,梅耶广场加泰罗尼亚酒店,1,0
+Chinese,Madrid,玛尤拉泽格酒店,1,0
+Chinese,Madrid,索马温齐酒店,1,0
+Chinese,Madrid,马德里卡尔顿万豪AC酒店,1,0
+Chinese,Madrid,60 Balconies Iconic,1,0
+Chinese,Madrid,Bob W Chueca,1,0
+Chinese,Madrid,CH Bueno,1,0
+Chinese,Madrid,CoolRooms Palacio de Atocha,1,0
+Chinese,Madrid,Hostal Palacio Luna,1,0
+Chinese,Madrid,JC客房圣多明各酒店,1,0
+Chinese,Madrid,加泰罗尼亚太阳门酒店,1,0
+Chinese,Madrid,奧地利唐胡安阿果拉酒店,1,0
+Chinese,Madrid,市长广场欧洲之星酒店,1,0
+Chinese,Madrid,拉斐尔阿托查酒店,1,0
+Chinese,Madrid,珀蒂宫阿图罗索里亚阿尔卡拉酒店,1,0
+Chinese,Madrid,西班牙广场亚斯吧酒店,1,0
+Chinese,Madrid,金狮精品酒店,1,0
+Chinese,Madrid,阿瑞赞尼卡套房公寓,1,0
+Chinese,Madrid,马德里欧式建筑NH精选酒店,1,0
+Chinese,Madrid,Arenal Suites Puerta del Sol,1,0
+Chinese,Madrid,BYPILLOW Velázquez 45,1,0
+Chinese,Madrid,Canaan Boutique Apartments Madrid,1,0
+Chinese,Madrid,Hotel Infantas by MIJ,1,0
+Chinese,New Delhi,Avatar Living @Safdarjung Enclave,1,1
+Chinese,New Delhi,Hotel Clayton Near IGI Airport Delhi,0,1
+Chinese,New Delhi,Hotel Blue Pearl,1,0
+Chinese,Paris,馨乐庭巴黎埃菲尔铁塔酒店,1,5
+Chinese,Paris,Hôtel Mayflower Opera,1,3
+Chinese,Paris,莱斯佩兰斯酒店,1,2
+Chinese,Paris,Novotel Paris Porte Versailles,1,2
+Chinese,Paris,阿斯顿酒店,1,2
+Chinese,Paris,曼特农歌剧院酒店,0,2
+Chinese,Paris,拉内公园酒店,1,1
+Chinese,Paris,游乐场酒店,1,1
+Chinese,Paris,Quinzerie hôtel,1,1
+Chinese,Paris,埃菲尔艺术酒店,1,1
+Chinese,Paris,法尔皇家酒店,1,1
+Chinese,Paris,Hotel Monsieur & Spa,1,1
+Chinese,Paris,Hôtel Lodge In Paris 13,1,1
+Chinese,Paris,Hôtel Beauregard,1,1
+Chinese,Paris,Hôtel Léna,1,1
+Chinese,Paris,蒙马特国家酒店,1,1
+Chinese,Paris,波尔多酒店,0,1
+Chinese,Paris,牧歌度假屋,0,1
+Chinese,Paris,蒙特贝洛公寓式酒店,0,1
+Chinese,Paris,舒瓦瑟尔歌剧酒店,1,0
+Chinese,Paris,Maison Albar Hotels Le Diamond,1,0
+Chinese,Paris,巴黎COQ酒店,1,0
+Chinese,Paris,帕里斯巴黎埃菲尔铁塔酒店,1,0
+Chinese,Paris,Rayz Eiffel,1,0
+Chinese,Paris,德拉帕酒店,1,0
+Chinese,Paris,杜米妮旺多姆酒店,1,0
+Chinese,Paris,里拉斯布兰卡酒店,1,0
+Chinese,Paris,Le 10 BIS酒店,1,0
+Chinese,Paris,巴黎里昂火车站万豪酒店&度假村,1,0
+Chinese,Paris,巴黎金门一号汽车旅馆,1,0
+Chinese,Paris,阿尔根松酒店,1,0
+Chinese,Paris,馨乐庭特洛卡德罗巴黎酒店,1,0
+Chinese,Paris,Deskopolitan House,1,0
+Chinese,Paris,Hotel Abbatial Saint Germain,1,0
+Chinese,Paris,Hotel Vacances Bleues Provinces Opera,1,0
+Chinese,Paris,Hotel des Arts - Cite Bergere,1,0
+Chinese,Paris,Hôtel Aiglon,1,0
+Chinese,Paris,My Maison In Paris - Louvre,1,0
+Chinese,Paris,Aparthotel Adagio Paris Nation,1,0
+Chinese,Paris,Best Stay Jeuneurs,1,0
+Chinese,Paris,Graphik Montparnasse,1,0
+Chinese,Paris,"Hotel Apolonia Paris Mouffetard, Sure Hotel Collection by Best Western",1,0
+Chinese,Paris,Hôtel La Canopée,1,0
+Chinese,Paris,Hôtel Le Presbytère,1,0
+Chinese,Paris,"Tinah Paris, Réaumur - Montorgeuil",1,0
+Chinese,Paris,卡洛琳公主酒店,1,0
+Chinese,Paris,圣路易斯里斯乐酒店,1,0
+Chinese,Paris,尼科洛别墅酒店,1,0
+Chinese,Paris,德拉波特多雷酒店,1,0
+Chinese,Paris,玛勒斯赫贝斯庄园酒店,1,0
+Chinese,Paris,1er Etage SoPi-Montmartre,1,0
+Chinese,Paris,Apartments Du Louvre St Honoré,1,0
+Chinese,Paris,Babel Belleville,1,0
+Chinese,Paris,Beauquartier Paris - Montorgueil,1,0
+Chinese,Paris,District Republique,1,0
+Chinese,Paris,"ELSA, Hôtel Paris",1,0
+Chinese,Paris,HIGHSTAY - Louvre - Serviced Apartments,1,0
+Chinese,Paris,Hotel Bloum,1,0
+Chinese,Paris,Hotel Mimosa Paris,1,0
+Chinese,Paris,Hotel Trinité Haussmann,1,0
+Chinese,Paris,Hotel de L'Empereur by Malone,1,0
+Chinese,Paris,Hôtel AMI - Orso Hotels,1,0
+Chinese,Paris,Hôtel Botaniste,1,0
+Chinese,Paris,Hôtel Dame des Arts,1,0
+Chinese,Paris,Hôtel Oratio,1,0
+Chinese,Paris,Hôtel du Cygne Paris,1,0
+Chinese,Paris,La Finca Hôtel & Spa,1,0
+Chinese,Paris,Le Temple De Jeanne,1,0
+Chinese,Paris,Louisa Hotel Paris,1,0
+Chinese,Paris,Odeon Hotel by Malone,1,0
+Chinese,Paris,Paris Art Hotel Quartier Latin by Malone,1,0
+Chinese,Paris,"Tinah Paris, Champs Elysées",1,0
+Chinese,Paris,citizenM Paris Opera,1,0
+Chinese,Paris,乔宾酒店,1,0
+Chinese,Paris,住宿加早餐：卢浮宫优雅套房,1,0
+Chinese,Paris,功博斯特尔酒店,1,0
+Chinese,Paris,卢森堡花园酒店,1,0
+Chinese,Paris,圣路易斯马莱酒店,1,0
+Chinese,Paris,埃菲尔布洛梅特酒店,1,0
+Chinese,Paris,堡夫库罗讷餐厅酒店,1,0
+Chinese,Paris,太阳酒店,1,0
+Chinese,Paris,安格利特酒店,1,0
+Chinese,Paris,小型舒适酒店,1,0
+Chinese,Paris,巴黎阿尔莫尼酒店,1,0
+Chinese,Paris,帕西埃菲尔酒店,1,0
+Chinese,Paris,悉尼歌剧院贝斯特韦斯特优质酒店,1,0
+Chinese,Paris,拉丁区 - 巴黎圣母院公寓,1,0
+Chinese,Paris,爱丽舍花园酒店,1,0
+Chinese,Paris,玛黑区之珠公寓,1,0
+Chinese,Paris,科纳艾菲尔酒店,1,0
+Chinese,Rome,Ripetta Luxurious Suites,1,2
+Chinese,Rome,四头私人套房旅馆,1,1
+Chinese,Rome,罗马诺德诺瓦酒店,1,1
+Chinese,Rome,Korean Sonata,1,1
+Chinese,Rome,SM Vatican Relais B&B,1,1
+Chinese,Rome,休闲旅馆,1,1
+Chinese,Rome,那锡那里精品酒店,1,1
+Chinese,Rome,Bloom Hotel Rome,0,1
+Chinese,Rome,Guest House Al Conservatorio,0,1
+Chinese,Rome,My Suites Piazza di Spagna,0,1
+Chinese,Rome,Archi di Roma Guest House,1,0
+Chinese,Rome,Hotel Varese,1,0
+Chinese,Rome,索基欧诺中心酒店,1,0
+Chinese,Rome,Residenza Venti Settembre,1,0
+Chinese,Rome,Rhome GuestHouse Affittacamere,1,0
+Chinese,Rome,圆形大剧场酒店,1,0
+Chinese,Rome,罗马诺酒店,1,0
+Chinese,Rome,Crosti Hotel,1,0
+Chinese,Rome,Hotel Roma Vaticano,1,0
+Chinese,Rome,Rossi Hotel,1,0
+Chinese,Rome,Sophie Terrace Hotel,1,0
+Chinese,Rome,巴贝里尼之梦民宿,1,0
+Chinese,Rome,斗兽场酷黑空间住宿加早餐旅馆,1,0
+Chinese,Rome,简单客房旅馆,1,0
+Chinese,Rome,Foresteria di Piazza Cavour - Luxury Suites & Guest House,1,0
+Chinese,Rome,Frattina FF italian suites,1,0
+Chinese,Rome,Holidays Suites Navona,1,0
+Chinese,Rome,NH罗马卡尔佩尼亚别墅酒店,1,0
+Chinese,Rome,Trevi Diamond Luxury Suites & Jacuzzi,1,0
+Chinese,Rome,保罗II号酒店,1,0
+Chinese,Rome,埃克斯国际宫殿酒店,1,0
+Chinese,Rome,威尼托大街尊贵旅馆,1,0
+Chinese,Rome,帕巴酒店,1,0
+Chinese,Rome,普利那里客房圣彼得罗马酒店,1,0
+Chinese,Rome,罗马威尼托旅馆,1,0
+Chinese,Rome,罗马市中心旅馆,1,0
+Chinese,Rome,蒂斯欧之家,1,0
+Chinese,Rome,Al centro di Roma,1,0
+Chinese,Rome,"Albergo Delle Regioni, Barberini - Fontana di Trevi",1,0
+Chinese,Rome,Azzurra Rooms,1,0
+Chinese,Rome,Camplus Hotel Roma Centro,1,0
+Chinese,Rome,Design 18 Charming Rooms,1,0
+Chinese,Rome,Domus Castroni Pompeo Magno,1,0
+Chinese,Rome,Domus Domas,1,0
+Chinese,Rome,Elegant Rooms Roma - Guest House,1,0
+Chinese,Rome,Erreggi Luxury Rooms,1,0
+Chinese,Rome,HortiSallustio luxury rooms,1,0
+Chinese,Rome,Magica Luna Boutique Hotel - Roma,1,0
+Chinese,Rome,Merulana Inn Guest House,1,0
+Chinese,Rome,Palazzo Ripetta,1,0
+Chinese,Rome,Pantheon Unique Rooms,1,0
+Chinese,Rome,Quintus Luxury Suites,1,0
+Chinese,Rome,Rome Art Hotel - Gruppo Trevi Hotels,1,0
+Chinese,Rome,Rome Easy Rooms,1,0
+Chinese,Rome,Rose Suite,1,0
+Chinese,Rome,Savoia Rooms Roma,1,0
+Chinese,Rome,St. Peter Manor,1,0
+Chinese,Rome,Sweet Dreams Roma,1,0
+Chinese,Rome,THE ROMAN WAY OPERA,1,0
+Chinese,Rome,Vatican Palace Suites by Premium Suites Collection,1,0
+Chinese,Rome,中央梵蒂冈客房旅馆,1,0
+Chinese,Rome,克洛索顶层旅馆,1,0
+Chinese,Rome,切萨雷卡瓦列里套房旅馆,1,0
+Chinese,Rome,别致城镇豪华旅馆,1,0
+Chinese,Rome,四河套房旅馆,1,0
+Chinese,Rome,因特诺7奢华住宿加早餐旅馆,1,0
+Chinese,Rome,奥兰治套房旅馆,1,0
+Chinese,Rome,弗拉迪纳华丽套房旅馆,1,0
+Chinese,Rome,拉基然多拉住宿加早餐酒店,1,0
+Chinese,Rome,桥梁套房住宿加早餐旅馆,1,0
+Chinese,Rome,梵蒂冈多莫斯旅馆,1,0
+Chinese,Rome,歌剧套房旅馆,1,0
+Chinese,Rome,特拉兹纳沃纳酒店,1,0
+Chinese,Rome,瑞莱小女皇旅馆,1,0
+Chinese,Rome,稀世套房旅馆,1,0
+Chinese,Rome,纳沃纳中央套房酒店,1,0
+Chinese,Rome,罗马法拉蒂纳27号旅馆,1,0
+Chinese,Rome,艺术纳沃纳套房,1,0
+Chinese,Rome,诺迪罗马酒店,1,0
+Chinese,Rome,阿普罗多里佩塔旅馆,1,0
+Chinese,Rome,阿涅高级客栈,1,0
+Chinese,Rome,马瑞提经典住宅旅馆,1,0
+Chinese,Seoul,弘大双层床旅馆,1,4
+Chinese,Seoul,首尔费尔菲尔德客栈酒店,1,3
+Chinese,Seoul,新罗九老酒店,1,2
+Chinese,Seoul,Glue Hotel,1,1
+Chinese,Seoul,The Stay Classic Hotel Myeongdong,1,1
+Chinese,Seoul,江南贝斯特韦斯特尊贵酒店,1,1
+Chinese,Seoul,LOTTE City Hotel Gimpo Airport,1,1
+Chinese,Seoul,"voco Seoul Gangnam, an IHG Hotel",1,1
+Chinese,Seoul,Ananti at Gangnam,1,1
+Chinese,Seoul,故宫精品酒店,1,1
+Chinese,Seoul,梦之家酒店,1,0
+Chinese,Seoul,Hao Guesthouse in Hongdae,1,0
+Chinese,Seoul,Toyoko Inn Seoul Gangnam,1,0
+Chinese,Seoul,首尔皇家广场酒店,1,0
+Chinese,Seoul,克汉公寓,1,0
+Chinese,Seoul,阁楼精品酒店,1,0
+Chinese,Seoul,Staz Hotel Doksan,1,0
+Chinese,Seoul,首尔植物园万怡酒店,1,0
+Chinese,Seoul,首尔大使 - 铂尔曼酒店,1,0
+Chinese,Washington,华盛顿DC /白宫凯悦嘉轩酒店,1,3
+Chinese,Washington,建筑师酒店,1,2
+Chinese,Washington,华盛顿特区北温德姆花园酒店,1,2
+Chinese,Washington,Hotel Washington,1,2
+Chinese,Washington,YOTEL Washington DC,1,2
+Chinese,Washington,诺曼底酒店,1,2
+Chinese,Washington,"2500 Penn, a Placemakr Experience",0,2
+Chinese,Washington,戴斯华盛顿酒店 - 康涅狄格大道,0,2
+Chinese,Washington,哈灵顿酒店,1,1
+Chinese,Washington,朵之屋旅馆,1,1
+Chinese,Washington,"Club Quarters Hotel White House, Washington DC",1,1
+Chinese,Washington,Kellogg Conference Hotel at Gallaudet University,1,1
+Chinese,Washington,Georgetown Residences by LuxUrban,1,1
+Chinese,Washington,The Baron Hotel,1,1
+Chinese,Washington,华盛顿广场酒店,1,1
+Chinese,Washington,华盛顿特区/美国国会大厦希尔顿花园酒店,1,1
+Chinese,Washington,"Holiday Inn Express - Washington DC Downtown, an IHG Hotel",1,1
+Chinese,Washington,华盛顿市中心/会议中心万怡酒店,1,1
+Chinese,Washington,地区酒店,1,1
+Chinese,Washington,The Georgetown House Inn,0,1
+Chinese,Washington,The St Gregory Hotel Dupont Circle Georgetown,0,1
+Chinese,Washington,凤巢酒店,0,1
+Chinese,Washington,华盛顿2号国际旅舍,0,1
+Chinese,Washington,华盛顿希尔顿酒店,0,1
+Chinese,Washington,华盛顿特区/码头凯悦酒店,0,1
+Chinese,Washington,华盛顿特区/美国国会大厦凯悦嘉轩酒店,0,1
+Chinese,Washington,亨利公园酒店,1,0
+Chinese,Washington,Hamilton Hotel - Washington DC,1,0
+Chinese,Washington,HighRoad Washington DC,1,0
+Chinese,Washington,Hilton Washington DC National Mall The Wharf,1,0
+Chinese,Washington,"Holiday Inn Washington Capitol-National Mall, an IHG Hotel",1,0
+Chinese,Washington,citizenM Washington DC Capitol,1,0
+Chinese,Washington,河畔莫杜斯酒店,1,0
+Chinese,Washington,"ARC HOTEL Washington DC, Georgetown",1,0
+Chinese,Washington,Global Luxury Suites at Revel,1,0
+Chinese,Washington,Hilton Washington DC Capitol Hill,1,0
+Chinese,Washington,Riggs Washington DC,1,0
+Chinese,Washington,AC Hotel by Marriott Washington DC Convention Center,1,0
+Chinese,Washington,AKA 白宫酒店,1,0
+Chinese,Washington,Generator Hotel Washington DC,1,0
+Chinese,Washington,Hotel Madera,1,0
+Chinese,Washington,Lyle DC,1,0
+Chinese,Washington,Motto by Hilton Washington DC City Center,1,0
+Chinese,Washington,伦巴第大酒店,1,0
+Chinese,Washington,华盛顿国际学生中心旅舍,1,0
+Chinese,Washington,华盛顿威拉德洲际酒店,1,0
+Chinese,Washington,华盛顿市中心费尔菲尔德万豪套房酒店,1,0
+Chinese,Washington,华盛顿格兰德凯悦酒店,1,0
+Chinese,Washington,汉普顿酒店华盛顿DC - 会展中心,1,0
+Chinese,Washington,首都希尔顿酒店,1,0
+Chinese,Washington,Conrad Washington DC,1,0
+Chinese,Washington,DC市区康福特茵酒店与会议中心,1,0
+Chinese,Washington,Most Economical Room in Center Washington DC,1,0
+Chinese,Washington,Renaissance Washington DC Downtown Hotel,1,0
+Chinese,Washington,Sonder The Quincy,1,0
+Chinese,Washington,"The Morrow Washington Dc, Curio Collection By Hilton",1,0
+Chinese,Washington,U Street Capsule Hostel,1,0
+Chinese,Washington,乔治敦瓦特盖特酒店,1,0
+Chinese,Washington,亚当斯甘草酒店,1,0
+Chinese,Washington,华盛顿/吉博波特姆万豪原住客栈,1,0
+Chinese,Washington,华盛顿地铁中心万豪酒店,1,0
+Chinese,Washington,华盛顿大使馆套房酒店 - 切维蔡斯馆,1,0
+Chinese,Washington,华盛顿特区乔治敦希尔顿合博套房酒店,1,0
+Chinese,Washington,华盛顿特区市中心希尔顿花园旅馆,1,0
+Chinese,Washington,华盛顿特区码头希尔顿Canopy酒店,1,0
+Chinese,Washington,埃尔登豪华套房酒店,1,0
+Chinese,Washington,莱恩DC酒店,1,0
