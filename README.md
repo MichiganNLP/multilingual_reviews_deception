@@ -2,7 +2,6 @@ Multilingual Deception Detection of GPT-generated Hotel Reviews
 =================================================================================
 
 This repository contains the dataset and code for our paper.
-Test
 
 ## Data
 
@@ -12,3 +11,12 @@ Source label **0 represents real hotel reviews** and label **1 represents fake/ 
 ## Features
 
 Topic Modeling features can be accessed interactively in [`topic_analysis`](topic_analysis)
+
+## Models
+
+### GPT-4 generation
+All generation code is available at [generation]().
+
+### Deception Detection models
+XLM-Roberta model is available at []()
+Random Forest and Naive Bayes models, together with interpretable features are available at []().
