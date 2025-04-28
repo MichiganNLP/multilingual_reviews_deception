@@ -19,3 +19,25 @@ All generation code is available at [LLM_generation](LLM_generation.py).
 
 ### Deception Detection models
 XLM-Roberta, Random Forest and Naive Bayes models, together with interpretable features are available at [Deception Detection Models](Deception%20Detection%20Models.ipynb).
+
+## Citation
+
+```bibtex
+@inproceedings{ignat-etal-2025-maide,
+    title = "{MA}i{DE}-up: Multilingual Deception Detection of {AI}-generated Hotel Reviews",
+    author = "Ignat, Oana  and
+      Xu, Xiaomeng  and
+      Mihalcea, Rada",
+    editor = "Chiruzzo, Luis  and
+      Ritter, Alan  and
+      Wang, Lu",
+    booktitle = "Findings of the Association for Computational Linguistics: NAACL 2025",
+    month = apr,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-naacl.88/",
+    pages = "1636--1653",
+    ISBN = "979-8-89176-195-7"
+}
+```
