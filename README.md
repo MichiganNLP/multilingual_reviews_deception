@@ -1,7 +1,9 @@
 Multilingual Deception Detection of GPT-generated Hotel Reviews
 =================================================================================
 
-This repository contains the dataset and code for our paper.
+This repository contains the dataset and code for our NAACL 2025 paper: 
+[MAiDE-up: Multilingual Deception Detection of
+AI-generated Hotel Reviews](https://aclanthology.org/2025.findings-naacl.88.pdf).
 
 ## Data
 
